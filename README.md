@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ezra Yendau
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently a Django and Flask Web developer 
-- 💞️ I’m looking to collaborate django, flask and python related projects 
+**- 👋 Hi, I’m Ezra Yendau**
+**- 👀 I’m interested in Web development, Data science and AI**
+**- 🌱 I’m currently a Python Web developer and a Junior AI and Data Analyst**
+**- 💞️ I’m looking to collaborate django, flask and ML, AI and Data Analysis python related projects** 
 - 📫 
 
 <!---
