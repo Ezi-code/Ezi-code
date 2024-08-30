@@ -7,7 +7,7 @@ I’m a passionate software engineer specializing in Python, with a focus on bui
 - **Languages:** Python
 - **Web Development:** Django, Django REST Framework (DRF), Flask, Cookiecutter
 - **Data Analysis:** Pandas, Matplotlib
-- **Database Design:** SQL
+- **Database Design:** SQL, PostgreSQL, MongoDB, SQLite
 - **Other Tools:** Docker, Git, PostgreSQL
 
   ## 🛠️ Skills & Technologies
