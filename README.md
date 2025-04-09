@@ -23,6 +23,8 @@ I’m a passionate software engineer specializing in Python, with a focus on bui
   - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
   - ![Cookiecutter-Django](https://img.shields.io/badge/Cookiecutter--Django-FF4F00?style=flat&logo=cookiecutter&logoColor=white)
   - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+  - ![HTMX](https://img.shields.io/badge/HTMX-337AB7?style=flat&logo=htmx&logoColor=white)
+
 
 
 
