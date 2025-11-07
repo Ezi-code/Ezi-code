@@ -4,22 +4,11 @@ I’m a passionate software engineer specializing in Python, with a focus on bui
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python
-- **Web Development:** Django, Django REST Framework (DRF), Flask, Cookiecutter
-- **Data Analysis:** Pandas, Matplotlib
-- **Database Design:** SQL, PostgreSQL, MongoDB, SQLite
-- **Other Tools:** Docker, Git, PostgreSQL
-
-  ## 🛠️ Skills & Technologies
-
 - **Languages:**
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 - **Web Development:**
   - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-0087B5?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Cookiecutter-Django](https://img.shields.io/badge/Cookiecutter--Django-FF4F00?style=flat&logo=cookiecutter&logoColor=white) ![HTMX](https://img.shields.io/badge/HTMX-337AB7?style=flat&logo=htmx&logoColor=white)
-
-
-
 
 - **Data Analysis:**
   - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-003A6C?style=flat&logo=matplotlib&logoColor=white)
