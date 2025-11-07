@@ -7,19 +7,19 @@ I’m a passionate software engineer specializing in Python, with a focus on bui
 - **Languages:**
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- **Web Development:**
+- **Frameworks:**
   - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-0087B5?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Cookiecutter-Django](https://img.shields.io/badge/Cookiecutter--Django-FF4F00?style=flat&logo=cookiecutter&logoColor=white) ![HTMX](https://img.shields.io/badge/HTMX-337AB7?style=flat&logo=htmx&logoColor=white)
 
 - **Data Analysis:**
   - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-003A6C?style=flat&logo=matplotlib&logoColor=white)
 
-- **Database Design:**
+- **Databases:**
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 
 ## 💼 What I Do
 
-- **Backend Development:** Building robust and scalable web applications and APIs.
+- **BSoftware Engineering:** Building robust and scalable software that suits clients' needs.
 - **Data Analysis:** Leveraging Python for insightful data analysis and visualization.
 - **Community Involvement:** 
   - **Python Ghana:** Active contributor to community events.
