@@ -16,9 +16,9 @@ I thrive on contributing to the Opensource, especially, the  Python and Django c
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezi-code&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical&rank_icon=github)
+![YourName's GitHub Stats](https://github-readme-stats-soulteary.vercel.app/api?username=ezi-code&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezi-code&hide=html&hide_title=true&layout=compact&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats-soulteary.vercel.app/api/top-langs/?username=ezi-code&hide=html&hide_title=true&layout=compact&hide_border=true&theme=radical)
 
 
 ## 🎨 Fun Facts
